@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/{to/{cs,js},templates/html}
+mkdir -p welcome/to/holberton
