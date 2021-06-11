@@ -23,4 +23,8 @@ To see the permission settings for a file, we can use the ls command. As an exam
 
 Octal notation method; think of the permission settings as a series of bits.
 
+  - the first three sets of rwx is for the owner(called the user represented with u)
+  - the second three sets of rwx is for the group(represented with g)
+  - the first three sets of rwx is for the others(represented with o)
+
 ![image](https://user-images.githubusercontent.com/52496180/121661574-ce2a3880-ca50-11eb-856e-d80b8b0e8409.png)
