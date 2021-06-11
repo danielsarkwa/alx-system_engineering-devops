@@ -1,7 +1,6 @@
 # Understanding the Linux access and permissions
 
 #### The Unix-like operating systems, such as Linux differ from other computing systems in that they are not only multitasking but also multi-user. This means that more than one user can be operating the computer at the same time. While a desktop or laptop computer only has one keyboard and monitor, it can still be used by more than one user.
----
   - chmod - modify file access rights
   - su - temporarily become the superuser
   - sudo - temporarily become the superuser
