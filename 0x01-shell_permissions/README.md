@@ -139,5 +139,5 @@ chown -h betty:holberton _hello
 ##### Task 17 - Write a script that will play the StarWars IV episode in the terminal
 ```
 #!/bin/bash
-
+telnet towel.blinkenlights.nl
 ```
