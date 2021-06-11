@@ -28,3 +28,18 @@ Octal notation method; think of the permission settings as a series of bits.
   - the first three sets of rwx is for the others(represented with o)
 
 ![image](https://user-images.githubusercontent.com/52496180/121661574-ce2a3880-ca50-11eb-856e-d80b8b0e8409.png)
+---
+### let's do some exercise
+
+##### Task 0 - Create a script that switches the current user to the user betty
+
+```
+#!/bin/bash
+su betty
+```
+##### Task 1 - Write a script that prints the effective username of the current user
+
+```
+#!/bin/bash
+whoami
+```
