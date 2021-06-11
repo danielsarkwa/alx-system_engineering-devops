@@ -12,3 +12,15 @@ On a Linux system, each file and directory is assigned access rights for the own
 To see the permission settings for a file, we can use the ls command. As an example, we will look at the bash program which is located in the /bin directory:
 
 ![image](https://user-images.githubusercontent.com/52496180/121659869-324bfd00-ca4f-11eb-91af-539b8e8fad11.png)
+---
+### understanding missions patterns
+
+![image](https://user-images.githubusercontent.com/52496180/121660694-f6fdfe00-ca4f-11eb-9515-c97d7ac8caa0.png)
+
+  - r means read with a value of 4
+  - w means write with a value of 2
+  - x means execute with a value of 1
+
+Octal notation method; think of the permission settings as a series of bits.
+
+![image](https://user-images.githubusercontent.com/52496180/121661574-ce2a3880-ca50-11eb-856e-d80b8b0e8409.png)
