@@ -122,8 +122,21 @@ chown -R betty . | chgrp -R holberton .
 
 #!/bin/bash
 chown -R betty:holberton 0x01-shell_permissions
+
+#!/bin/bash
+chown betty:holberton *
 ```
 ##### Task 15 - Write a script that changes the owner and the group owner of _hello to betty and holberton respectively
+```
+#!/bin/bash
+
+```
+##### Task 16 - Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
+```
+#!/bin/bash
+
+```
+##### Task 17 - Write a script that will play the StarWars IV episode in the terminal
 ```
 #!/bin/bash
 
