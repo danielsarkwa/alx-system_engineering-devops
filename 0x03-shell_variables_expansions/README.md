@@ -1,1 +1,1 @@
-Learning about shell variables, expansions and init files
+Understanding shell expansions, init files, variables
