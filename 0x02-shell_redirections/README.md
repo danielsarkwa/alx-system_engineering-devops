@@ -3,5 +3,5 @@
 ---
 
 git add .
-git commit -m"completed task 7"
+git commit -m"updated task 7"
 git push
